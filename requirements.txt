@@ -1,0 +1,10 @@
+gradio
+transformers
+torch
+pandas
+sentence-transformers
+faiss-cpu
+numpy
+gtts
+openai-whisper
+groq
